@@ -39,6 +39,10 @@ PS.2 - All done on the same seed:Vanilla Optimized
 PS.3 - Everyone may have different computer hardware and so on. Someone will have more than 1000+ fps on a top-end pc and someone with a weak pc or laptop may have ~200 fps.And the average fps may be different from the actual gameplay.
 
 
+![Vanilla Optimazed_Demo](https://i.imgur.com/qvnOvDj.png)
+
+* Tell me that not in one point all compared well if you want to test yourself (/gamerule spawnRadius 10 no one canceled ;) )
+  
 | Features            | OptiFine              | Vanilla Optimized    |
 |---------------------|:---------------------:|---------------------:|
 | FPS boost           | ✅                   | ✅ (Sodium)     |
