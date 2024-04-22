@@ -66,5 +66,5 @@ PS.3 - Everyone may have different computer hardware and so on. Someone will hav
 [img-modrinth]: <https://img.shields.io/modrinth/dt/1KVo5zza?style=for-the-badge&label=Modrinth&color=darkgreen&labelColor=black&logo=modrinth>
 
 <!-- URLs -->
-[url-cf]: <https://gist.github.com/chizusrevenge/72f054c520d51a7378f5451f746e3006>
+[url-cf]: <https://i.imgur.com/q7fhKS5.png>
 [url-modrinth]: <https://modrinth.com/modpack/vanillaoptimized>
