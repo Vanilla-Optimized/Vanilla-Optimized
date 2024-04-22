@@ -32,7 +32,7 @@ Smoother Minecraft with familiar tweaks from OptiFine and give ~1.5x boost perfo
 
 ![Test Vanilla, OF, VO](https://i.imgur.com/cxrMBvD.png)
 
-PS.1 - All tests are conducted on my pc with characteristics (I3-9100F GTX 1660 Super and allocated 4G RAM on minecraft).
+PS.1 - All tests are conducted on my pc with characteristics (I3-9100F GTX 1660 Super and allocated 4G RAM on minecraft and on default settings [Render - 12 chunks,Max Shadow Distance - 6 chunks, Simulation - 12 chunks]).
 
 PS.2 - All done on the same seed:Vanilla Optimized
 
