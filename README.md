@@ -11,6 +11,8 @@ Smoother Minecraft with familiar tweaks from OptiFine and give ~1.5x boost perfo
 
 [![CurseForge][img-cf]][url-cf]
 [![Modrinth][img-modrinth]][url-modrinth]
+[![Fabricmc][img-fabricmc]][url-fabricmc]
+[![Wiki][img-wiki]][url-wiki]
 
 <details>
 <summary>READ PLEASE(FOR AMD GPU OR BELOW GTX 16 SERIES)</summary>
@@ -64,7 +66,11 @@ PS.3 - Everyone may have different computer hardware and so on. Someone will hav
 [img-discord]: <https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Ffabulously-optimized-859124104644788234%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&label=Discord&color=5865F2&logoColor=white&labelColor=black&logo=discord>
 [img-github]: <https://img.shields.io/github/stars/Fabulously-Optimized/fabulously-optimized?style=for-the-badge&label=Stars&color=white&logoColor=white&labelColor=black&logo=github>
 [img-modrinth]: <https://i.imgur.com/1BSfiI8.png>
+[img-wiki]: <https://i.imgur.com/Uuyg5Jy.png>
+[img-fabricmc]: <https://i.imgur.com/ZJzXcw4.png>
 
 <!-- URLs -->
 [url-cf]: <https://i.imgur.com/q7fhKS5.png>
 [url-modrinth]: <https://modrinth.com/modpack/vanillaoptimized>
+[url-fabricmc]: <https://fabricmc.net/>
+[url-wiki]: <https://vanilla-optimized.gitbook.io/vanilla-optimized>
