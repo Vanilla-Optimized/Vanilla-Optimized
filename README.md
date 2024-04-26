@@ -60,10 +60,10 @@ PS.3 - Everyone may have different computer hardware and so on. Someone will hav
 | Fast Texturepack Switching | ✅ | ✅ (Remove Reloading Screen) |
 
 <!-- Images -->
-[img-cf]: <https://img.shields.io/curseforge/dt/396246?style=for-the-badge&label=CurseForge&color=orange&logoColor=orange&labelColor=black&logo=curseforge>
+[img-cf]: <https://i.imgur.com/wjkE5OX.png>
 [img-discord]: <https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Ffabulously-optimized-859124104644788234%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&label=Discord&color=5865F2&logoColor=white&labelColor=black&logo=discord>
 [img-github]: <https://img.shields.io/github/stars/Fabulously-Optimized/fabulously-optimized?style=for-the-badge&label=Stars&color=white&logoColor=white&labelColor=black&logo=github>
-[img-modrinth]: <https://img.shields.io/modrinth/dt/1KVo5zza?style=for-the-badge&label=Modrinth&color=darkgreen&labelColor=black&logo=modrinth>
+[img-modrinth]: <https://i.imgur.com/9IjkjQj.png>
 
 <!-- URLs -->
 [url-cf]: <https://i.imgur.com/q7fhKS5.png>
