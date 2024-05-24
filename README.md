@@ -31,36 +31,63 @@ Smoother Minecraft with familiar tweaks from OptiFine and give ~1.5x boost perfo
   
 - ### Unlike some performance-focused solutions, Vanilla Optimized prioritizes maintaining the core Minecraft experience. No visual or gameplay alterations compromise the essence of vanilla Minecraft. Savor the classic world you cherish, now enhanced with unparalleled performance.
 
-#   More Detail Below Description
+<details>
+<summary>Included mods</summary>
 
-![Test Vanilla, OF, VO](https://i.imgur.com/cxrMBvD.png)
+- [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
+- [OptiGUI](https://opekope2.github.io/OptiGUI) by opekope2
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) by Aizistral
+- [Mod Menu](https://modrinth.com/mod/modmenu) by Prospector, haykam821, TerraformersMC
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
+- [Capes](https://modrinth.com/mod/89Wsn8GD) by Cael
+- [FabricSkyBoxes](https://modrinth.com/mod/YBz7DOs8) by AMereBagatelle
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) by JellySquid, 2No2Name
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
+- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
+- [Cloth Config v13](https://modrinth.com/mod/9s6osm5g) by shedaniel
+- [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [YOSBR](https://modrinth.com/mod/WwbubTsV) by shedaniel
+- [CIT Resewn](https://modrinth.com/mod/otVJckYQ) by SHsuperCM
+- [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) by Kir_Antipov
+- [Main Menu Credits](https://isxander.dev) by isXander
+- [Puzzle](https://modrinth.com/mod/3IuO68q1) by PuzzleMC, Motschen
+- [Noisium](https://modrinth.com/mod/noisium) by Steveplays28
+- [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities) by FoundationGames
+- [Language Reload](https://modrinth.com/mod/uLbm7CG6) by Jerozgen
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
+- [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) by Mehvahdjukaar
+- [FastQuit](https://modrinth.com/mod/x1hIzbuY) by KingContaria
+- [More Culling](https://modrinth.com/mod/51shyZVL) by FX - PR0CESS
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben
+- [Nvidium](https://modrinth.com/mod/SfMw2IZN) by Cortex
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
+- [Indium](https://modrinth.com/mod/Orvt0mRa) by comp500
+- [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) by MehVahdJukaar
+- [Krypton](https://modrinth.com/mod/fQEb0iXm) by tuxed
+- [MixinTrace](https://modrinth.com/mod/sGmHWmeL) by comp500
+- [FabricSkyBoxes Interop](https://modrinth.com/mod/HpdHOPOp) by FlashyReese
+- [ModDetectionPreventer](https://modrinth.com/mod/lnxQbnYZ) by JustAlittleWolf
+- [Zoomify](https://modrinth.com/mod/w7ThoJFB) by isXander
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
+- [Fabrishot](https://modrinth.com/mod/3qsfQtE9) by ramidzkh
+- [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) by Lortseam
+- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665, LostLuma
+- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
+- [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
+- [Remove Reloading Screen](https://modrinth.com/mod/ZP7xHXtw) by dima_dencep
+- [Debugify](https://modrinth.com/mod/QwxR6Gcd) by isXander
+- [Very Many Players](https://modrinth.com/mod/wnEe9KBa) by ishland
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) by embeddedt
+- [ThreadTweak](https://modrinth.com/mod/vSEH1ERy) by getchoo, UltimateBoomer, fantahund
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK_01
+- [Sodium](https://modrinth.com/mod/AANobbMI) by @jellysquid3
+- [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) by Rynnavinx
+- [Animatica](https://github.com/FoundationGames/Animatica) by FoundationGames
+- [${name}](https://modrinth.com/mod/1eAoo2KR) by isXander
+- [Chat Patches](https://modrinth.com/mod/MOqt4Z5n) by OBro1961
 
-PS.1 - All tests are conducted on my pc with characteristics (I3-9100F GTX 1660 Super and allocated 4G RAM on minecraft and on default settings [Render - 12 chunks,Max Shadow Distance - 6 chunks, Simulation - 12 chunks]).
-
-PS.2 - All done on the same seed:Vanilla Optimized
-
-PS.3 - Everyone may have different computer hardware and so on. Someone will have more than 1000+ fps on a top-end pc and someone with a weak pc or laptop may have ~200 fps.And the average fps may be different from the actual gameplay.
-
-
-![Vanilla Optimazed_Demo](https://i.imgur.com/dUB2O6G.png)
-
-* Tell me that not in one point all compared well if you want to test yourself (/gamerule spawnRadius 10 no one canceled ;) )
-  
-| Features            | OptiFine              | Vanilla Optimized    |
-|---------------------|:---------------------:|---------------------:|
-| FPS boost           | ✅                   | ✅ (Sodium)     |
-| Support for HD Textures and etc.| ✅              | ✅ (Polytone,OptiGUI,Animatica,FabricSkyboxes,CIT Resewn and etc)|
-| Support for Shaders | ✅              | ✅ (Iris)           |
-| Dynamic Lights | ✅ | ✅ (LambDynamicLights) |
-| Variable Render Distance | ✅ | ❌ (But you can use Bobby) |
-| Configurable Smooth Lighting | ✅ | ✅ (Sodium) |
-| Fog control | ✅ | ✅ (Sodium Extra) |
-| Mipmaps  | ✅ | ✅ (Sodium) |
-| Anisotropic Filtering | ✅ | ❌ |
-| Antialiasing | ✅ | ❌ |
-| Connected Textures | ✅ | ✅ (Continuity) |
-| Configurable Details & animations | ✅ | ✅ (Sodium Extra) |
-| Fast Texturepack Switching | ✅ | ✅ (Remove Reloading Screen) |
+</details>
 
 <!-- Images -->
 [img-cf]: <https://i.imgur.com/wjkE5OX.png>
