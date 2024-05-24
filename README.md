@@ -84,7 +84,7 @@ Smoother Minecraft with familiar tweaks from OptiFine and give ~1.5x boost perfo
 - [Sodium](https://modrinth.com/mod/AANobbMI) by @jellysquid3
 - [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) by Rynnavinx
 - [Animatica](https://github.com/FoundationGames/Animatica) by FoundationGames
-- [${name}](https://modrinth.com/mod/1eAoo2KR) by isXander
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [Chat Patches](https://modrinth.com/mod/MOqt4Z5n) by OBro1961
 
 </details>
