@@ -5,7 +5,7 @@
 # Vanilla Optimized
 
 
-Smoother Minecraft with familiar tweaks from OptiFine and give ~1.5x boost performance to gameplay.
+Smoother Minecraft with familiar tweaks from OptiFine and give boost performance to gameplay.
 
 ## Download
 
@@ -18,7 +18,7 @@ Smoother Minecraft with familiar tweaks from OptiFine and give ~1.5x boost perfo
 <details>
 <summary>READ PLEASE(FOR AMD GPU OR BELOW GTX 16 SERIES)</summary>
 
-### - This modpack uses the _**nvidium**_ mod and uses an unusual technology (mesh shaders). If you have a graphics card from AMD or below GTX 16 series, please remove or disable the mod from the modpack. But according to the mod developer: "No, the mod is not functional on non-Nvidia systems, but the Nvidium will automatically disable itself. Your gameplay will not be affected."
+### - This modpack uses the _**nvidium**_ mod and uses an unusual technology (mesh shaders). If you have a graphics card from AMD, Intel or below GTX 16 series, please remove or disable the mod from the modpack. But according to the mod developer: "No, the mod is not functional on non-Nvidia systems, but the Nvidium will automatically disable itself. Your gameplay will not be affected."
 
 </details>
 
