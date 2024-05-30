@@ -89,6 +89,25 @@ Smoother Minecraft with familiar tweaks from OptiFine and give boost performance
 
 </details>
 
+***
+
+<details>
+<summary>Versioning🆙</summary>
+
+The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
+
+- **`x:`** MAJOR version *(Not likely to change)*
+- **`y:`** MINOR version (*Big updates - Mod addition/removal)*
+- **`z:`** PATCH version (*Small changes - Micro Config Update,Mod Updates)*
+- **`pre-release:`** For untested,breaking changes,not ready for use versions (***Values: alpha,beta)**
+- the MC version taken is the minor release the version of VO is for.
+
+**`x.y.z`** is reset to 1.0.0 for every new MC release as different MC versions are very likely to have different mod sets available for them.
+
+</details>
+
+### NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+
 <!-- Images -->
 [img-cf]: <https://i.imgur.com/wjkE5OX.png>
 [img-discord]: <https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Ffabulously-optimized-859124104644788234%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&label=Discord&color=5865F2&logoColor=white&labelColor=black&logo=discord>
