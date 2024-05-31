@@ -64,7 +64,6 @@ Smoother Minecraft with familiar tweaks from OptiFine and give boost performance
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
 - [Indium](https://modrinth.com/mod/Orvt0mRa) by comp500
 - [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) by MehVahdJukaar
-- [Krypton](https://modrinth.com/mod/fQEb0iXm) by tuxed
 - [MixinTrace](https://modrinth.com/mod/sGmHWmeL) by comp500
 - [FabricSkyBoxes Interop](https://modrinth.com/mod/HpdHOPOp) by FlashyReese
 - [ModDetectionPreventer](https://modrinth.com/mod/lnxQbnYZ) by JustAlittleWolf
@@ -82,7 +81,6 @@ Smoother Minecraft with familiar tweaks from OptiFine and give boost performance
 - [ThreadTweak](https://modrinth.com/mod/vSEH1ERy) by getchoo, UltimateBoomer, fantahund
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK_01
 - [Sodium](https://modrinth.com/mod/AANobbMI) by @jellysquid3
-- [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) by Rynnavinx
 - [Animatica](https://github.com/FoundationGames/Animatica) by FoundationGames
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [Chat Patches](https://modrinth.com/mod/MOqt4Z5n) by OBro1961
