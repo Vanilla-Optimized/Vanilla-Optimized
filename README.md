@@ -13,7 +13,6 @@ Smoother Minecraft with familiar tweaks from OptiFine and give boost performance
 [![Modrinth][img-modrinth]][url-modrinth]
 [![Fabricmc][img-fabricmc]][url-fabricmc]
 [![Wiki][img-wiki]][url-wiki]
-![VO IS NOT FORK](https://cdn.modrinth.com/data/cached_images/14631710e57429580de05d16475220fdbe0e6933.png)
 
 <details>
 <summary>READ PLEASE(FOR AMD GPU OR BELOW GTX 16 SERIES)</summary>
