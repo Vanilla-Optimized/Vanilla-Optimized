@@ -1,3 +1,30 @@
-              - name: mc-publish
-                uses: Kir-Antipov/mc-publish@v3.3.0
-            
+name: Automatically publish to Modrinth and CurseForge
+on:
+  release:
+    types: [published]
+jobs:
+ publish-to-modrinth:
+    if: github.repository_owner == 'Vanilla-Optimized'
+    runs-on: ubuntu-22.04
+    environment: github-actions
+    steps:
+       - name: Download pack files
+         uses: robinraju/release-downloader@v1.10
+         id: download-files
+         with:
+           fileName: "*.mrpack"
+           latest: true
+           tarBall: false
+           zipBall: false
+           preRelease: true
+           
+       - name: Publish to Modrinth
+         uses: Kir-Antipov/mc-publish@v3.3
+         with:
+           name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
+           modrinth-id: oXpnIe9R
+           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+           modrinth-unfeature-mode: subset
+           files: '*.mrpack'
+           loaders: fabric
+           game-versions: ${{ vars.MC_VERSION }}
