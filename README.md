@@ -93,7 +93,7 @@ Smoother Minecraft with familiar tweaks from OptiFine and give boost performance
 
 The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
 
-- **`x:`** MAJOR version *(Not likely to change)*
+- **`x:`** MAJOR version *(1.20 was 1.y.z, 1.21 was 2.y.z )*
 - **`y:`** MINOR version (*Big updates - Mod addition/removal)*
 - **`z:`** PATCH version (*Small changes - Micro Config Update,Mod Updates)*
 - **`pre-release:`** For untested,breaking changes,not ready for use versions *(Values: alpha,beta)*
@@ -107,8 +107,6 @@ The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
 
 <!-- Images -->
 [img-cf]: <https://i.imgur.com/wjkE5OX.png>
-[img-discord]: <https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Ffabulously-optimized-859124104644788234%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&label=Discord&color=5865F2&logoColor=white&labelColor=black&logo=discord>
-[img-github]: <https://img.shields.io/github/stars/Fabulously-Optimized/fabulously-optimized?style=for-the-badge&label=Stars&color=white&logoColor=white&labelColor=black&logo=github>
 [img-modrinth]: <https://i.imgur.com/1BSfiI8.png>
 [img-wiki]: <https://i.imgur.com/Uuyg5Jy.png>
 [img-fabricmc]: <https://i.imgur.com/ZJzXcw4.png>
