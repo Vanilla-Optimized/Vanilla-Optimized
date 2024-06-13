@@ -21,14 +21,29 @@ Smoother Minecraft with familiar tweaks from OptiFine and give boost performance
 
 </details>
 
-## Enhance Your Minecraft Experience with Vanilla Optimized: Unleash Unparalleled Performance
+### **Support OptiFine functionality**
 
-### Vanilla Optimized redefines Minecraft performance, offering a meticulously crafted modpack designed to deliver exceptional frame rates and blazing-fast world loading times.
-- ### Vanilla Optimized surpasses the performance capabilities of both vanilla Minecraft and OptiFine, achieving significantly higher average frames per second (FPS). Experience unmatched fluidity and responsiveness, allowing you to explore, build, and battle with unparalleled smoothness.
-  
-- ### Eliminate tedious waiting times. Vanilla Optimized optimizes the world loading process, ensuring you can jump into the action quicker than ever before. Minimize downtime and maximize your playtime.
-  
-- ### Unlike some performance-focused solutions, Vanilla Optimized prioritizes maintaining the core Minecraft experience. No visual or gameplay alterations compromise the essence of vanilla Minecraft. Savor the classic world you cherish, now enhanced with unparalleled performance.
+Modpack Vanilla Optimized supports most of the functionality of OptiFine (Shaders,Resource  packs for OptiFine, etc.) that allows you to refuse OptiFine in favor of modpack.
+
+### **Performance**
+
+Thanks to modern performance mods in Vanilla Optimized such as Sodium, FerriteCore, ImmediatelyFast and others allowing you to fix the problems of Vanilla Minecraft and double the performance on low computers.
+
+### **Vanilla Gameplay**
+
+Vanilla Optimized does not change the gameplay of Minecraft that allows you to feel the gameplay if you were playing on Vanilla Minecraft.
+
+### **Built on Fabric**
+
+Vanilla Optimized uses the Fabric mod loader which allows it to be fast, lightweight, updates quickly and supports most mods on this loader.
+
+### Quick updates
+
+Vanilla Optimized gets updated faster which allows you to play on the latest versions of minecraft.
+
+### Freedom of modding
+
+Vanilla Optimized does not restrict users who downloaded the modpack to use other mods to improve gameplay and experience.
 
 <details>
 <summary>Included mods</summary>
