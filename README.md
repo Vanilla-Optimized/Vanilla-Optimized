@@ -127,7 +127,7 @@ The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
 [img-fabricmc]: <https://i.imgur.com/ZJzXcw4.png>
 
 <!-- URLs -->
-[url-cf]: <https://i.imgur.com/q7fhKS5.png>
+[url-cf]: <https://i.imgur.com/q7fhKS5_d.webp?maxwidth=760&fidelity=grand>
 [url-modrinth]: <https://modrinth.com/modpack/vanillaoptimized>
 [url-fabricmc]: <https://fabricmc.net/>
 [url-wiki]: <https://vanilla-optimized.gitbook.io/vanilla-optimized>
