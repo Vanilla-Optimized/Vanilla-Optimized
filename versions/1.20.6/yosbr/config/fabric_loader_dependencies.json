@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "overrides": {
+      "fabricloader": {
+        "+depends": {
+          "fabricloader": ">=0.15.11"
+        }
+      },
+      "minecraft": {
+        "+recommends": {
+          "Vanilla Optimized": ">1.2.5-beta"
+        }
+      },
+      "dynamic_fps": {
+        "recommends": {}
+      },
+      "lambdynlights": {
+        "recommends": {}
+      },
+      "polytone": {
+        "conflicts": {}
+      },
+      "nvidium": {
+        "-depends": {
+         "sodium": ""
+        }
+      }
+  }
+}
