@@ -8,7 +8,7 @@
       },
       "minecraft": {
         "+recommends": {
-          "Vanilla Optimized": ">2.6.3-beta"
+          "Vanilla Optimized": ">2.7.1-beta"
         }
       },
       "dynamic_fps": {
