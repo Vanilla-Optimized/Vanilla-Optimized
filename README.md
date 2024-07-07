@@ -114,7 +114,7 @@ The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
 - **`pre-release:`** For untested,breaking changes,not ready for use versions *(Values: alpha,beta)*
 - the MC version taken is the minor release the version of VO is for.
 
-**`x.y.z`** is reset to 1.0.0 for every new MC release as different MC versions are very likely to have different mod sets available for them.
+**`x.y.z`** is reset to x.0.0 for every new MC release as different MC versions are very likely to have different mod sets available for them.
 
 </details>
 
