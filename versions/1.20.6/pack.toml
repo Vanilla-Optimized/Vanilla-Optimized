@@ -1,16 +1,13 @@
 name = "Vanilla Optimized"
 author = "chizusrevenge"
-version = "2.7.1-beta"
+version = "1.2.5-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "39e1cf5cd0d89a3670c222e7dabc033f4420f9e5a5666367f90ed4a93a1013a9"
+hash = "786c95bde4111e6d110df2948ecae0fd47ab34bf8bb16fcb049d3152cbee9980"
 
 [versions]
 fabric = "0.15.11"
-minecraft = "1.21"
-
-[options]
-acceptable-game-versions = ["1.20.6"]
+minecraft = "1.20.6"
