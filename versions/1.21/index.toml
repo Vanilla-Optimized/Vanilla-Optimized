@@ -346,9 +346,8 @@ hash = "1e340d2f0a2881d499fb61e7d860c541dd70145dc9237f86e23cdf7279dbc947"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "eb299c3a11314066982d4cc0fa0dbdb848c57826ee27efe3959ea4601f63280f"
-metafile = true
+file = "mods/lithium-fabric-mc1.21-0.12.8+git.427dd75.jar"
+hash = "549da707fc88faa4f4cd6b6f123067072fa80b754fa44d38a89991ad3b94905f"
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
@@ -374,6 +373,10 @@ metafile = true
 file = "mods/modmenu.pw.toml"
 hash = "164dbf2cec5adb7482fdb49f5d7b2b214f1db47287aafed7f72d71dcee9d1092"
 metafile = true
+
+[[files]]
+file = "mods/moreculling-1.21-0.25.0.jar"
+hash = "d3a7484d144133958362620c73e732ac8630f68ede807e70764a29734ff7adb0"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
