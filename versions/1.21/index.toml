@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "acf0c97696994772e0298561699a4b4d5fc3fa65fd7859d5920fe11101fc149f"
+hash = "f681f9e7303600ed5783af89d60397ccee4c4f2784c70581cdfd9303e5b956d5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "db3bef1caeb17d5a57b0501844e949068ddcec490d83355ad1c19dc62763173b"
+hash = "f296514d04906a5e3dae9c2e3bcd17fe9792bb17ddc849b9072b42b5afb367e4"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "dae92272d0d16dbc529a3bee6b4b3c37c6f77664e88fb7e19653052c6b65be46"
+file = "config/nvidium-config.json"
+hash = "bb2422f161738b1330c319c11c168429e62a8ff04231dd5fc1ed650cd60eb63d"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +94,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "acf0c97696994772e0298561699a4b4d5fc3fa65fd7859d5920fe11101fc149f"
+hash = "f681f9e7303600ed5783af89d60397ccee4c4f2784c70581cdfd9303e5b956d5"
 
 [[files]]
 file = "config/yosbr/config/fabricskyboxes-config.json"
@@ -130,7 +130,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "db3bef1caeb17d5a57b0501844e949068ddcec490d83355ad1c19dc62763173b"
+hash = "f296514d04906a5e3dae9c2e3bcd17fe9792bb17ddc849b9072b42b5afb367e4"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -166,7 +166,7 @@ hash = "685e31de20c7b7c8c47b9a6ffae4e1a162891f3bb66eb479bd13445c5afc153c"
 
 [[files]]
 file = "config/yosbr/config/nvidium-config.json"
-hash = "5d8c0a477a68a2f68ae3e55491c9981e79089836b9fbb1a64de14de7fb5b29f3"
+hash = "bb2422f161738b1330c319c11c168429e62a8ff04231dd5fc1ed650cd60eb63d"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling-1.21-0.25.0.jar"
-hash = "d3a7484d144133958362620c73e732ac8630f68ede807e70764a29734ff7adb0"
+hash = "3ae0826d2e4d9aef0055e7841f8512166b87b24389b924f4ac6b4ae81fddf8f4"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
