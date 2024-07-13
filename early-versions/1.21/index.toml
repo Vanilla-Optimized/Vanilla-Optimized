@@ -9,12 +9,8 @@ file = "config/isxander-main-menu-credits.json"
 hash = "f296514d04906a5e3dae9c2e3bcd17fe9792bb17ddc849b9072b42b5afb367e4"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "f3e10a9cdfb27e0013e6648a89e74436ab00b1539742cd59330ea41967213c31"
-
-[[files]]
-file = "config/rrls.toml"
-hash = "c7c48324c992b5bf455cb1d837c2bfb68a6298fb98b1a9071eb8210a0f1f78be"
+file = "config/nvidium-config.json"
+hash = "bb2422f161738b1330c319c11c168429e62a8ff04231dd5fc1ed650cd60eb63d"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -114,7 +110,7 @@ hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "f3e10a9cdfb27e0013e6648a89e74436ab00b1539742cd59330ea41967213c31"
+hash = "dae92272d0d16dbc529a3bee6b4b3c37c6f77664e88fb7e19653052c6b65be46"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -134,7 +130,7 @@ hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "c7c48324c992b5bf455cb1d837c2bfb68a6298fb98b1a9071eb8210a0f1f78be"
+hash = "d26fb6d98c7645b32cb95634bba7ece0ecea09b897a262cc1e352fbf8f3f2f5b"
 
 [[files]]
 file = "config/yosbr/config/ryoamiclights.toml"
@@ -151,6 +147,10 @@ hash = "63d0b4e6a38e61f8deffabb28968ce360eee398d29f3ef63d68aaaad02a691be"
 [[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "8b2463c7d41e0c0b8f7e5df674deeeaee7e4cafdebb000ab0dad04b374c75667"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -224,11 +224,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "320373e5e39c0ce1bc8392f23cd2d7f56361f842a9e1574675c215e47888e4a9"
-metafile = true
-
-[[files]]
-file = "mods/esf.pw.toml"
-hash = "226fb78f5592f34aab107001cb934f159090a4fbeaad2a15c1dc2af40c6ca0f3"
 metafile = true
 
 [[files]]
@@ -307,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
@@ -381,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "32354cdecbc903e1d38e2955dc326aeba20ede30a38b287ff7f7e9178e619435"
+hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
 metafile = true
 
 [[files]]
@@ -411,5 +406,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
+hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
 metafile = true
