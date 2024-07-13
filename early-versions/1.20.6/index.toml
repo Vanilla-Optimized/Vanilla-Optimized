@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bd51026ed0138e7dd3b9545269a35d6eaddd1e0a31b225c1dd1f79ec998c1cd2"
+hash = "4b5adb76d9e0a820c555ae1d4a4f1873a2f1503da8647889e7dfce4b691e0ce6"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "eca8578b978a3a79c3edb495d0f2c96e6515fb863199e2abce3fe332f9cec0f1"
+hash = "2a16c4396f07a3e9421ac8b587282df28e6106ff8ebad980e627dd79c30e9017"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "c1d74118903acc9ed0d8cffeb7ceb72b41b0f6cc4f3c1151382c6e42060577c1"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "bd51026ed0138e7dd3b9545269a35d6eaddd1e0a31b225c1dd1f79ec998c1cd2"
+hash = "4b5adb76d9e0a820c555ae1d4a4f1873a2f1503da8647889e7dfce4b691e0ce6"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "eca8578b978a3a79c3edb495d0f2c96e6515fb863199e2abce3fe332f9cec0f1"
+hash = "2a16c4396f07a3e9421ac8b587282df28e6106ff8ebad980e627dd79c30e9017"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -106,7 +106,7 @@ hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "dae92272d0d16dbc529a3bee6b4b3c37c6f77664e88fb7e19653052c6b65be46"
+hash = "f3e10a9cdfb27e0013e6648a89e74436ab00b1539742cd59330ea41967213c31"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -126,7 +126,7 @@ hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "d26fb6d98c7645b32cb95634bba7ece0ecea09b897a262cc1e352fbf8f3f2f5b"
+hash = "c7c48324c992b5bf455cb1d837c2bfb68a6298fb98b1a9071eb8210a0f1f78be"
 
 [[files]]
 file = "config/yosbr/config/ryoamiclights.toml"
@@ -273,8 +273,8 @@ hash = "077943fe49e2eb752b538f8786a32f013c793e5c529b616301b1e8336b2deebd"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "2504eab6718fb558f8c2b56497923b6d1b9c45abf72faad4ac6983ed2aa156bc"
+file = "mods/iris.pw.toml"
+hash = "860b83d5fe7aadcefa928fe156d38e46cf171b6102d5691758eb75da3fcdb799"
 metafile = true
 
 [[files]]
