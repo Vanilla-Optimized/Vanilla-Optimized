@@ -29,36 +29,20 @@ file = "config/yosbr/config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/yosbr/config/animatica.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "a58e58e7855d65fb6f97d79834e0becaa5b723746be89ebc33ec5387163f7fb8"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "5157cba377614babb525e4346d3f56cd9502e0f20e91ef3f31601a5c90080852"
+hash = "c36c07fdcb71f6d420fcf2c675d0bd1d6cfd6472f95a21b2d346ce7782269191"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "aed4b8050d92a0bb32f6ecaded37abdd36d451d9a3eef45d4dea53f51ca99656"
 
 [[files]]
-file = "config/yosbr/config/citresewn-defaults.json"
-hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
-
-[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
-
-[[files]]
-file = "config/yosbr/config/continuity.json"
-hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
-
-[[files]]
-file = "config/yosbr/config/debugify-descriptions.json"
-hash = "90ab56187f46405eacf52d5ac560412a983650f5483b6cd06c89bab9e27c97aa"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -73,10 +57,6 @@ file = "config/yosbr/config/enhanced_bes.properties"
 hash = "f14645f5e6b1805b7c5b9d51f00b80712c78d5ca24e262a80df4149badf0b8fe"
 
 [[files]]
-file = "config/yosbr/config/entity_model_features.json"
-hash = "d0eef94378e351b5dd41274ab8e6096491605fec947a932642dc77c0dfff957d"
-
-[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "7894237507048bead1a4647be2d2207e03b8dd8c696a59ab6d1a13056a3eb06e"
 
@@ -85,16 +65,8 @@ file = "config/yosbr/config/entityculling.json"
 hash = "c1d74118903acc9ed0d8cffeb7ceb72b41b0f6cc4f3c1151382c6e42060577c1"
 
 [[files]]
-file = "config/yosbr/config/etf_warnings.json"
-hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
-
-[[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
 hash = "bd51026ed0138e7dd3b9545269a35d6eaddd1e0a31b225c1dd1f79ec998c1cd2"
-
-[[files]]
-file = "config/yosbr/config/fabricskyboxes-config.json"
-hash = "582b93ab2b24e82e6d904f7030d95269d7b0326495d19017b63d58ebea2ac15b"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -109,16 +81,8 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "5cb2998eb0d990a42be344c3d9193d3c2b2c2c9d1d100a5d6cf8a95773b642f3"
 
 [[files]]
-file = "config/yosbr/config/fsb-interop.json"
-hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
-
-[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "2a96eeab480b079ccd18703b567a5b3d32f309a4022f112a2cffa6ce8bb14dd5"
-
-[[files]]
-file = "config/yosbr/config/indium-renderer.properties"
-hash = "10a31e7ca461885adff807cde8e36fd9e6417d433a923f62fd840018924726b6"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -133,20 +97,12 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "c71d65a4c83caf9b6ecb3cb80729b621bebf8ef9942391ca6f9c9c3d1cb190f4"
 
 [[files]]
-file = "config/yosbr/config/languagereload.json"
-hash = "4dca1e02ce97afa1da9f1f4681741dcf5f3e33cd4d14e035f226c651efa1483f"
-
-[[files]]
 file = "config/yosbr/config/lithium.properties"
 hash = "9a6a542c364d7e342820e12480784a10ffba62d1cc81f3aa76ec31e66934ec56"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
-
-[[files]]
-file = "config/yosbr/config/modelfix-client.json"
-hash = "b55936928438ab49ebc8086579cd2218faf14d777fd15ec6eee895dbcadb667d"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -162,7 +118,7 @@ hash = "685e31de20c7b7c8c47b9a6ffae4e1a162891f3bb66eb479bd13445c5afc153c"
 
 [[files]]
 file = "config/yosbr/config/nvidium-config.json"
-hash = "5d8c0a477a68a2f68ae3e55491c9981e79089836b9fbb1a64de14de7fb5b29f3"
+hash = "bb2422f161738b1330c319c11c168429e62a8ff04231dd5fc1ed650cd60eb63d"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -173,28 +129,8 @@ file = "config/yosbr/config/rrls.toml"
 hash = "d26fb6d98c7645b32cb95634bba7ece0ecea09b897a262cc1e352fbf8f3f2f5b"
 
 [[files]]
-file = "config/yosbr/config/rrp.properties"
-hash = "92526b5635af6d3e5cbdb6f6f439c5bdc0545ab8a93858a5180a33597aac55f7"
-
-[[files]]
 file = "config/yosbr/config/ryoamiclights.toml"
 hash = "60b49a2ab933dfde08dc32c6a2b0f5c034c36fa3d6bb68064d07e2c2afe74bab"
-
-[[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
-hash = "263c7d83498e7e02d9d59fbebfd8dc8b1cabf1647ec7b163e279389052e01e4d"
-
-[[files]]
-file = "config/yosbr/config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
-
-[[files]]
-file = "config/yosbr/config/sodium-fingerprint.json"
-hash = "b75247f0012f3f8723cbcfadb0a61fa8785e4a1f9bfafdf1ee75b62867c02840"
-
-[[files]]
-file = "config/yosbr/config/sodium-mixins.properties"
-hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -202,7 +138,7 @@ hash = "fe34003fe7babb0e9bd1163c09f4c827e72e6e1ffc96b5c54f30a94caacc5b0d"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
-hash = "d3e260c69ff9667633519ce3a9bcebd701fdfaab9367cfd12735464a96d371ef"
+hash = "63d0b4e6a38e61f8deffabb28968ce360eee398d29f3ef63d68aaaad02a691be"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -238,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "964d0ab25f44fdbd9682c9714347111e9490fde360c85dbeb530598bdb911e25"
+hash = "a3adb1164bd2360d0b4e2568dd87c520875afe61884f890100b895ecadd41215"
 metafile = true
 
 [[files]]
@@ -273,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0a2fbbabc86911641d3c7e2f3966b04e5ea52090464a5e167ae8c3a6d770a773"
+hash = "e89774299cd32f41118fadaf480e0c11fd8d4b643dbba17377e30b62e34fcdd6"
 metafile = true
 
 [[files]]
@@ -284,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "0c5c75e9514baecccebf49e49ea6d4fe91a0c80dd5e9bc733345c89fba891d66"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "f03b9cebfe468c25a15db0cb4e07b90e64dcad062d3d1d4742017ba1ce5a7be4"
 metafile = true
 
 [[files]]
@@ -473,5 +414,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
+hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
 metafile = true
