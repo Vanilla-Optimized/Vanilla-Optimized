@@ -9,7 +9,9 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.21|✅|
 | 1.20.6|✅|
-| 1.20.4|✅|
+| 1.20.4|✅*|
+
+(✅*) - Means that everything is still supported but updates are rarely released.
 
 ## Reporting a Vulnerability
 
