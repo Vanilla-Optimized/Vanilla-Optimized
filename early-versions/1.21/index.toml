@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a0c83eb22b040e9a4d263533e4951e297973d89a9b2c6a10c4abeb8d38705245"
+hash = "1c6ce4deb37ccec442b451e3f6bf5372e95c9d6d30df060ba9c5aeded16494ed"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7b93b6687fc416cae47ab4a9f5619bab7e99f80e6def6fd672d6e24ab9cac919"
+hash = "917fe069154b9da8c57627d341b63ceb74fe5ad904aa5810370aa49667b31290"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "a0c83eb22b040e9a4d263533e4951e297973d89a9b2c6a10c4abeb8d38705245"
+hash = "1c6ce4deb37ccec442b451e3f6bf5372e95c9d6d30df060ba9c5aeded16494ed"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "7b93b6687fc416cae47ab4a9f5619bab7e99f80e6def6fd672d6e24ab9cac919"
+hash = "917fe069154b9da8c57627d341b63ceb74fe5ad904aa5810370aa49667b31290"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
