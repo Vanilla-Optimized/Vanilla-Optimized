@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "dbb7e957c86dc6f6c2555fa366f0cc0678f409e349e50136eeec87b63bc38611"
+hash = "d9f5e1853d890ba0bec28431bf62fe067792f8ec36d679813e7264d85e14866e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "115a946e5a4670f2123be0049048ecf11fb5d68c5cedd71357075c76b767c5ca"
+hash = "398ad0591123aef31b3d221738eef9343f64c45785c00b7fa582cbdbc10d7154"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -78,7 +78,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "dbb7e957c86dc6f6c2555fa366f0cc0678f409e349e50136eeec87b63bc38611"
+hash = "d9f5e1853d890ba0bec28431bf62fe067792f8ec36d679813e7264d85e14866e"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -102,7 +102,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "115a946e5a4670f2123be0049048ecf11fb5d68c5cedd71357075c76b767c5ca"
+hash = "398ad0591123aef31b3d221738eef9343f64c45785c00b7fa582cbdbc10d7154"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
