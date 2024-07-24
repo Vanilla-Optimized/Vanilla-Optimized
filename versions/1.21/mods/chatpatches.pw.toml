@@ -1,0 +1,13 @@
+filename = 'chatpatches-210.6.5.1.jar'
+name = 'Chat Patches'
+side = 'both'
+
+[download]
+hash = 'eac0cb920abcc755b0dff98a60a557816eb405d2e216f2a8918b23a8a65e7f279ca605b088bfe2eaf4c7c44200c2b45000da80bff9626633f483e8af17898146'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MOqt4Z5n/versions/7ZefzlQj/chatpatches-210.6.5.1.jar'
+
+[update.modrinth]
+mod-id = 'MOqt4Z5n'
+version = '7ZefzlQj'

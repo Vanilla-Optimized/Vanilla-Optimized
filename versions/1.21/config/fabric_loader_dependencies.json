@@ -1,0 +1,30 @@
+{
+    "version": 1,
+    "overrides": {
+      "fabricloader": {
+        "+depends": {
+          "fabricloader": ">=0.16.0"
+        }
+      },
+      "minecraft": {
+        "+recommends": {
+          "Vanilla Optimized": ">2.9.3-beta"
+        }
+      },
+      "dynamic_fps": {
+        "recommends": {}
+      },
+      "lambdynlights": {
+        "recommends": {}
+      },
+      "polytone": {
+        "conflicts": {}
+      },
+      "threadtweak": {
+        "-depends": {
+            "minecraft": ""
+        }
+      }
+    }
+  }
+  
