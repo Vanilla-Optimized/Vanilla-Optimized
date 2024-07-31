@@ -1,12 +1,12 @@
 name = "Vanilla Optimized"
 author = "chizusrevenge"
-version = "2.9.3-beta"
+version = "2.9.4-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "af48d585c824717d6f8b1659620b1f2540a1fcc8a027781b62dd0b551d3f1ca5"
+hash = "b402f657a42312027228c60d892836aec114b9c791c8c3b54b9653ec8156f69e"
 
 [versions]
 fabric = "0.16.0"
