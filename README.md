@@ -66,7 +66,7 @@ The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
 [img-fabricmc]: <https://i.imgur.com/ZJzXcw4.png>
 
 <!-- URLs -->
-[url-cf]: <https://gist.github.com/chizusrevenge/da0b28cc9572668093d0f00508a5289b>
+[url-cf]: <https://www.curseforge.com/minecraft/modpacks/vanillaoptimized>
 [url-modrinth]: <https://modrinth.com/modpack/vanillaoptimized>
 [url-fabricmc]: <https://fabricmc.net/>
 [url-wiki]: <https://vanilla-optimized.gitbook.io/vanilla-optimized>
