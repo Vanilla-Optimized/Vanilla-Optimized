@@ -7,7 +7,33 @@ body:
     value: |
       ## Mod name ⤴️
       Before you request a mod, [please search](https://github.com/Vanilla-Optimized/vanilla-optimized/issues) if it has already been requested.
+
+- type: input
+  attributes:
+    label: CurseForge link
+    description: If you know the link, please write it. If you don't know the link, do you know the dev's stance? (e.g. pending approval, planned, considering, not considering, etc.)
+    placeholder: https://www.curseforge.com/minecraft/mc-mods/...
+  validations:
+    required: false
+      
+- type: dropdown
+  attributes:
+    label: CurseForge Mod Distribution
+    multiple: false
+    options:
+      - Unknown
+      - Allowed
+      - Not allowed
+  validations:
+    required: true
     
+- type: markdown
+  attributes:
+    value: |
+      1. Go to https://cflookup.com
+      2. Paste the mod link to "Project Id / Slug" and click `Search project`
+      3. Look at the `Mod Distribution` value and select it above
+      
 - type: input
   attributes:
     label: Modrinth link
