@@ -1,0 +1,54 @@
+{
+    "version": 1,
+    "overrides": {
+      "fabricloader": {
+        "+depends": {
+          "fabricloader": ">=0.16.0"
+        }
+      },
+      "minecraft": {
+        "+recommends": {
+          "Vortexial Optimized": ">2.0.0-alpha"
+        }
+      },
+      "dynamic_fps": {
+        "recommends": {}
+      },
+      "lambdynlights": {
+        "recommends": {}
+      },
+      "polytone": {
+        "conflicts": {}
+      },
+      "threadtweak": {
+        "-depends": {
+            "minecraft": ""
+        }
+      },
+      "fabrishot": {
+        "-depends": {
+            "minecraft": ""
+        }
+      },
+      "chatpatches": {
+        "-depends": {
+            "minecraft": ""
+        }
+      },
+      "entityculling": {
+        "-depends": {
+            "minecraft": ""
+        }
+      },
+      "debugify": {
+        "-depends": {
+            "minecraft": ""
+          }
+        },
+      "fabric-api": {
+       "-depends": {
+         "minecraft": ""
+      }
+    }
+ }
+}
