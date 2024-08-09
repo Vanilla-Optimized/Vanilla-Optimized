@@ -5,7 +5,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Before reporting an issue, [please search](https://github.com/Vanilla-Optimized/Vanilla-optimized/issues) to make sure it has not already been reported. 
+      Before reporting an issue, [please search](https://github.com/Vortexial-Optimized/Vortexial-Optimized/issues) to make sure it has not already been reported. 
 
 - type: textarea
   attributes:
