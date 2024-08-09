@@ -12,6 +12,7 @@ Smoother Minecraft with familiar tweaks from OptiFine and give boost performance
 [![CurseForge][img-cf]][url-cf]
 [![Modrinth][img-modrinth]][url-modrinth]
 [![Wiki][img-wiki]][url-wiki]
+[![stillvo][img-stillvo]][url-stillvo]
 
 
 ### **Support OptiFine functionality**
@@ -63,10 +64,10 @@ The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
 [img-cf]: <https://img.shields.io/badge/Curseforge-black?style=for-the-badge&logo=curseforge&logoColor=%23b84304&logoSize=64&label=On&labelColor=black&color=%23b84304>
 [img-modrinth]: <https://img.shields.io/badge/Modrint-black?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&logoSize=64&label=On&labelColor=black&color=%23017520>
 [img-wiki]: <https://img.shields.io/badge/wiki-black?style=for-the-badge&logo=gitbook&logoColor=%237f03fc&logoSize=64&label=On&labelColor=black&color=%237f03fc>
-[img-fabricmc]: <https://i.imgur.com/ZJzXcw4.png>
+[img-stillvo]: <https://img.shields.io/badge/still_vanilla_optimized-vo?style=for-the-badge&color=6700cf>
 
 <!-- URLs -->
 [url-cf]: <https://www.curseforge.com/minecraft/modpacks/vortexial-optimized>
 [url-modrinth]: <https://modrinth.com/modpack/vortexial-optimized>
-[url-fabricmc]: <https://fabricmc.net/>
 [url-wiki]: <https://vortexial-optimized.gitbook.io/vortexial-optimized>
+[url-stillvo]: <https://gist.github.com/chizusrevenge/6c1ee85b2d5108e7862669d522e2e241>
