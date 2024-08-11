@@ -8,7 +8,7 @@
       },
       "minecraft": {
         "+recommends": {
-          "Vortexial Optimized": ">2.0.0-alpha"
+          "Vortexial Optimized": ">2.1.1-alpha"
         }
       },
       "dynamic_fps": {
@@ -43,7 +43,7 @@
       "debugify": {
         "-depends": {
             "minecraft": ""
-    }
+         }
+     }
   }
- }
 }
