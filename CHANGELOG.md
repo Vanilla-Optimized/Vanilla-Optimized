@@ -610,7 +610,7 @@ Unexpected update for modpack as myself did not expect the EBE mod to be updated
 
  ✅Added mod:
 
-* ### Enhanced Block Entities
+* Enhanced Block Entities
 
  🔄️ Updated mods:
 
