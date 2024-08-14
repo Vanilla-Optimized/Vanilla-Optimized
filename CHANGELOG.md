@@ -4,11 +4,11 @@
 
 ### Vortexial Optimized 2.1.1-alpha
 
-#### ↪️ Returned mods:
+ ↪️ Returned mods:
 
 * Lithium
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods                    | From    | To      |
 | ----------------------- | ------- | ------- |
@@ -17,15 +17,15 @@
 | ImmediatelyFast         | 1.2.19  | 1.2.20  |
 | Remove Reloading Screen | 5.0.6   | 5.0.7   |
 
-#### 🔄️Updated resourcepack:
+ 🔄️Updated resourcepack:
 
 * Translations for Sodium
 
-#### ❌ Temporarily removed mods:
+ ❌ Temporarily removed mods:
 
 * Continuity
 
-#### ⬇️ Other changes:
+ ⬇️ Other changes:
 
 * Removed Fabric Api from the dependency overrides file
 
@@ -33,16 +33,16 @@
 
 ### Vortexial Optimized 2.0.0-alpha
 
-#### ↪️ Readded modpack from 1.21
+ ↪️ Readded modpack from 1.21
 
 * Find the difference between 1.21 and 1.21.1
 
-#### ❌ Temporarily removed mods:
+ ❌ Temporarily removed mods:
 
 * Lithium (Crashes the game on startup)
 * Fabric Api 0.102.0+ (Not compatible with Indium because of the new architecture mods such as Continuity and others, the game crashes when entering the world)
 
-#### ⬇️ Other changes:
+ ⬇️ Other changes:
 
 * Mods (fabrishot, chatpatches, entityculling, debugify, fabric-api) to the dependency overrides file
 
@@ -52,7 +52,7 @@
 
 ### Vortexial Optimized 2.9.5-beta
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods                    | From                | To                   |
 | ----------------------- | ------------------- | -------------------- |
@@ -65,7 +65,7 @@
 
 * Fabric Api update skipped
 
-#### 🔄️Updated resourcepacks:
+ 🔄️Updated resourcepacks:
 
 * Translations for Sodium
 * Chat Reporting Helper
@@ -74,7 +74,7 @@
 
 ### Vanilla Optimized 2.9.4-beta
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods                    | From         | To           |
 | ----------------------- | ------------ | ------------ |
@@ -85,7 +85,7 @@
 | Dynamic FPS             | 3.6.1        | 3.6.3        |
 | ModernFix               | 5.18.8       | 5.19.0       |
 
-#### 🔄️Updated resourcepack:
+ 🔄️Updated resourcepack:
 
 * Translations for Sodium
 
@@ -93,7 +93,7 @@
 
 ### Vanilla Optimized 2.9.3-beta
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods                    | From     |          |
 | ----------------------- | -------- | -------- |
@@ -102,7 +102,7 @@
 | Dynamic FPS             | 3.6.0    | 3.6.1    |
 | Remove Reloading Screen | 5.0.3    | 5.0.5    |
 
-#### 🔄️Updated resourcepack:
+ 🔄️Updated resourcepack:
 
 * Translations for Sodium
 
@@ -110,7 +110,7 @@
 
 ### Vanilla Optimized 2.9.2-beta
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods                    | From             | To     |
 | ----------------------- | ---------------- | ------ |
@@ -123,11 +123,11 @@
 
 ### Vanilla Optimized 2.9.1-beta
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * \[ESF] Entity Sound Features (This mod will now be the default of all modpack versions \[OptiFine parity] )
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods              | From    | To      |
 | ----------------- | ------- | ------- |
@@ -135,17 +135,17 @@
 | Very Many Players | 7.162   | 7.163   |
 | Fabric API        | 0.100.6 | 0.100.7 |
 
-#### 🔄️Updated resourcepacks:
+ 🔄️Updated resourcepacks:
 
 * Translations for Sodium
 
-#### 🛠️Updated configs:
+ 🛠️Updated configs:
 
 * `Remove Reloading Screen` now reloading resource packs or etc. Instead of progress bar will be text
 * `ModernFix` fixed bug from modpack release. Mod config was reset by default at first startup. Now all mod tweaks and mod config will not be reset.
 * `fabric_loader_dependencies.json`  the minimum version of Fabric Loader is now 0.16.0
 
-#### **🤏Other** modification**:**
+ **🤏Other** modification**:**
 
 * Fabric Loader in modpack by default now 0.16.0
 
@@ -153,11 +153,11 @@
 
 ### Vanilla Optimized 2.8.1-beta
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * MoreCulling ([Latest Actions](https://github.com/FxMorin/MoreCulling/actions/runs/9844630252) or [nightly.link](https://nightly.link/FxMorin/MoreCulling/actions/runs/9844630252))
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods       | From    | To                                                                                           |
 | ---------- | ------- | -------------------------------------------------------------------------------------------- |
@@ -165,7 +165,7 @@
 | ModernFix  | 5.18.5  | 5.18.7                                                                                       |
 | Lithium    | 0.12.7  | 0.12.8 ([Git version](https://github.com/CaffeineMC/lithium-fabric/actions/runs/9668071614)) |
 
-#### 🛠️Updated config
+ 🛠️Updated config
 
 * In config Nvidium Render Keep Distance by default now 64 chunks
 
@@ -173,18 +173,18 @@
 
 ### Vanilla Optimized 2.7.1-beta
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * Better Mount Hud
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods                  | From   | To     |
 | --------------------- | ------ | ------ |
 | Entity Model Features | 2.1.1  | 2.1.3  |
 | ModernFix             | 5.18.3 | 5.18.5 |
 
-#### 🔄️Updated resourcepacks:
+ 🔄️Updated resourcepacks:
 
 * Translations for Sodium
 
@@ -192,7 +192,7 @@
 
 ### Vanilla Optimized 2.6.3-beta
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods                    | From   | To     |
 | ----------------------- | ------ | ------ |
@@ -202,7 +202,7 @@
 | Indium                  | 1.0.33 | 1.0.34 |
 | Remove Reloading Screen | 5.0.0  | 5.0.1  |
 
-#### 🛠️Updated config
+ 🛠️Updated config
 
 * ~~`fabric_loader_dependencies.json` Indium mod was added to ignore the Sodium version~~
 
@@ -210,7 +210,7 @@
 
 ### Vanilla Optimized 2.6.2-beta
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods        | From       | To         |
 | ----------- | ---------- | ---------- |
@@ -219,7 +219,7 @@
 | Nvidium     | 0.2.8-beta | 0.2.9-beta |
 | Sodium      | 0.5.9      | 0.5.11     |
 
-#### 🛠️Updated config
+ 🛠️Updated config
 
 * `fabric_loader_dependencies.json` Indium mod was added to ignore the Sodium version
 
@@ -227,12 +227,12 @@
 
 ### Vanilla Optimized 2.6.1-beta
 
-#### ➕ Added mods:
+ ➕ Added mods:
 
 * Cubes Without Borders
 * Nvidium
 
-#### 🔄️Updated mods:
+ 🔄️Updated mods:
 
 | Mods          | From         | To        |
 | ------------- | ------------ | --------- |
@@ -243,11 +243,11 @@
 | RyoamicLights | 0.2.8        | 0.2.9     |
 | Polytone      | 2.0.3        | 2.1.1     |
 
-#### 🛠️Updated config:
+ 🛠️Updated config:
 
 * Disabled battery-based optimizations in Dynamic FPS
 
-#### ❗Missing mods:
+ ❗Missing mods:
 
 * CIT Resewn,More Culling,LambDynamicLights,Better Mount HUD
 
@@ -255,15 +255,15 @@
 
 ### Vanilla Optimized 2.5.1-beta
 
-#### ➕Added Temporary Mod:
+ ➕Added Temporary Mod:
 
 * LambDynamicLights ⇒ RyoamicLights
 
-#### 🪲 Bug:
+ 🪲 Bug:
 
 * One of the de\_aztec 1x1 paintings is invisible (Fixing by disabling ETF and EMF)
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * Noisium
 
@@ -275,19 +275,19 @@
 | Dynamic FPS            | 3.4.3  | 3.5.0-beta.3 |
 | Entity Texture Feature | 6.1.1  | 6.1.2        |
 
-#### 🔄️Updated resourcepacks:
+ 🔄️Updated resourcepacks:
 
 * Translations for Sodium
 
-#### 🛠️Updated config:
+ 🛠️Updated config:
 
 * `fabric_loader_dependencies.json` ThreadTweak mod was added to ignore the game version
 
-#### 🤏 The imperceptible change:
+ 🤏 The imperceptible change:
 
 * ThreadTweak no more overrides
 
-#### ❗Missing mods:
+ ❗Missing mods:
 
 * CIT Resewn,More Culling,Nvidium,Cubes Without Borders,LambDynamicLights,Better Mount HUD
 
@@ -295,15 +295,15 @@
 
 ### Vanilla Optimized 2.4.1-beta
 
-#### ❌Removed mod:
+ ❌Removed mod:
 
 * More Chat History
 
-#### 🪲 Bug:
+ 🪲 Bug:
 
 * One of the de\_aztec 1x1 paintings is invisible (Fixing by disabling ETF and EMF)
 
-#### ➕ Added mods:
+ ➕ Added mods:
 
 * Debugify
 * Model Gap Fix
@@ -311,13 +311,13 @@
 * Chat Patches
 * ThreadTweak (by editing file **fabric.mod.json**)
 
-#### 🔄️Updated mod:
+ 🔄️Updated mod:
 
 | Mod     | From   | To     |
 | ------- | ------ | ------ |
 | Lithium | 0.12.5 | 0.12.7 |
 
-#### ❗Missing mods:
+ ❗Missing mods:
 
 * CIT Resewn,More Culling,Nvidiu,,Cubes Without Borders,Debugify,LambDynamicLights,Noisium,Better Mount HUD
 
@@ -325,17 +325,17 @@
 
 ### Vanilla Optimized 2.3.1-alpha
 
-#### ❌ Removed mod:
+ ❌ Removed mod:
 
 * Ok Zoomer
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * Zoomify
 * Fabrishot
 * No Chat Reports
 
-#### 🔄️Updated mod:
+ 🔄️Updated mod:
 
 | Mods       | From        | To      |
 | ---------- | ----------- | ------- |
@@ -343,11 +343,11 @@
 | Mod Menu   | 11.0.0-rc.4 | 11.0.0  |
 | ModernFix  | 5.18.2      | 5.18.3  |
 
-#### 🛠️Updated config:
+ 🛠️Updated config:
 
 * Mods button now appears in full width on pause menu & enabled credits (Say thank who making mods for minecraft)
 
-#### ❗Missing mods:
+ ❗Missing mods:
 
 * CIT Resewn,Polytone,More Culling,Nvidium,ThreadTweak,Cubes Without Borders,Debugify,LambDynamicLights,Noisium,Better Mount HUD,Chat Patches,Model Gap Fix
 
@@ -355,7 +355,7 @@
 
 ### Vanilla Optimized 2.2.1-alpha
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * Puzzle
 * Indium
@@ -366,11 +366,11 @@
 | -------- | ----------- | ----------- |
 | Mod Menu | 11.0.0-rc.2 | 11.0.0-rc.4 |
 
-#### 🛠️Updated config:
+ 🛠️Updated config:
 
 * Fixed in option.txt some sound not on normal settings and binds.
 
-#### ❗Missing mods:
+ ❗Missing mods:
 
 * CIT Resewn,Fabrishot,Polytone,More Culling,Nvidium,ThreadTweak,No Chat Reports,Zoomify,Cubes Without Borders,Debugify,LambDynamicLights,Noisium,Better Mount HUD,Chat Patches,Model Gap Fix
 
@@ -378,11 +378,11 @@
 
 ### Vanilla Optimized 2.1.1-alpha
 
-#### ❗Returned mod:
+ ❗Returned mod:
 
 * Continuity
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * Capes
 * OptiGUI
@@ -392,22 +392,22 @@
 
 \***Please note that these mods are not yet available in the release on 1.21.All mods are taken from the Official Github repository in Actions**
 
-#### **🔃Temporary replaced mod:**
+ **🔃Temporary replaced mod:**
 
 * Chat Patches ⇒ More Chat History
 
-#### 🔄️Updated mod:
+ 🔄️Updated mod:
 
 | Mods     | From          | To          |
 | -------- | ------------- | ----------- |
 | Mod Menu | 11.0.0-beta.2 | 11.0.0-rc.2 |
 
-#### 🔄️Updated configs:
+ 🔄️Updated configs:
 
 * Rolled it back the settings in **Enhanced Block Entities**
 * Turned off (LabyMod,Cosmetica,Wynntils) now there by default in Capes.
 
-#### ❗Missing mods:
+ ❗Missing mods:
 
 * CIT Resewn,Fabrishot,Polytone,More Culling,Nvidium,ThreadTweak,No Chat Reports,Zoomify,Cubes Without Borders,Indium,Debugify,LambDynamicLights,Noisium,Better Mount HUD,Puzzle,Chat Patches,Model Gap Fix
 
@@ -415,25 +415,25 @@
 
 ### Vanilla Optimized 2.0.1-alpha
 
-#### ❗Temporarily removed mod:
+ ❗Temporarily removed mod:
 
 * \[BUG] **Continuity** mod was temporarily removed. It often caused the game to crash
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * Entity Culling
 
-#### 🔄️Updated mod:
+ 🔄️Updated mod:
 
 | Mods             |       |       |
 | ---------------- | ----- | ----- |
 | BadOptimizations | 2.1.3 | 2.1.4 |
 
-#### ❗Missing mods:
+ ❗Missing mods:
 
 * CIT Resewn,Fabrishot,Polytone,OptiGUI,Lithium,More Culling,Nvidium,FerriteCore,ThreadTweak,Capes,No Chat Reports,Zoomify,Cubes Without Borders,Indium,Debugify,LambDynamicLights,Noisium,Better Mount HUD,Puzzle,Chat Patches,Model Gap Fix
 
-#### 🔄️Updated config:
+ 🔄️Updated config:
 
 * Turned off more than half of the settings in **Enhanced Block Entities**
 
@@ -441,11 +441,11 @@
 
 ### Vanilla Optimized 2.0.0-alpha
 
-#### ➕ Added mods:
+ ➕ Added mods:
 
 * Animatica,BadOptimizations,Continuity,Dynamic FPS,Enhanced Block Entities,Enhanced Model Feature,Enhanced Texture Feature,Iris,FabricSkyBoxes,FabricSkyBoxes Interop,ImmediatelyFast,Language Reload,ModerFix,Remove Reloading Screen,Sodium,Sodium Extra,Very Many Players and other API for mods.
 
-#### 🔃Temporary replaced mod:
+ 🔃Temporary replaced mod:
 
 * Zoomify ⇒ Ok Zoomer
 
@@ -455,7 +455,7 @@
 
 ### Vanilla Optimized 1.3.2-beta
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                   | From    | To      |
 | ---------------------- | ------- | ------- |
@@ -464,7 +464,7 @@
 | Reese's Sodium Options | 1.7.2   | 1.7.3   |
 | Cubes Without Borders  | 2.1.0   | 2.1.1   |
 
-#### 🔄️Updated resourcepacks:
+ 🔄️Updated resourcepacks:
 
 * Translations for Sodium
 
@@ -472,34 +472,34 @@
 
 ### Vanilla Optimized 1.3.1-beta
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * \[ESF] Entity Sound Features (This mod will now be the default of all modpack versions \[OptiFine parity] )
 
-#### 🔄️ Updated mod:
+ 🔄️ Updated mod:
 
 | Mods                  | From  | To    |
 | --------------------- | ----- | ----- |
 | Entity Model Features | 2.1.1 | 2.1.3 |
 
-#### 🔄️Updated resourcepacks:
+ 🔄️Updated resourcepacks:
 
 * Translations for Sodium
 
-#### 🛠️Updated configs:
+ 🛠️Updated configs:
 
 * `Remove Reloading Screen` now reloading resource packs or etc. Instead of progress bar will be text
 * `ModernFix` fixed bug from modpack release. Mod config was reset by default at first startup. Now all mod tweaks and mod config will not be reset.
 * `fabric_loader_dependencies.json`  the minimum version of Fabric Loader is now 0.16.0
 * `Nvidium` Render Keep Distance by default now 64 chunks
 
-#### **🤏Other** modification**:**
+ **🤏Other** modification**:**
 
 * Fabric Loader in modpack by default now 0.16.0
 
 ### Vanilla Optimized 1.2.5-beta
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                    | From   | To     |
 | ----------------------- | ------ | ------ |
@@ -508,7 +508,7 @@
 | Entity Texture Features | 6.1.1  | 6.1.3  |
 | Indium                  | 1.0.32 | 1.0.34 |
 
-#### 🛠️Updated config:
+ 🛠️Updated config:
 
 * ~~`fabric_loader_dependencies.json` Indium mod was added to ignore the Sodium version~~
 
@@ -520,7 +520,7 @@
 
 * Nvidium
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                  | From    | To      |
 | --------------------- | ------- | ------- |
@@ -533,22 +533,22 @@
 | ObsidianUI            | 0.2.5   | 0.2.6   |
 | Sodium                | 0.5.9   | 0.5.11  |
 
-#### 🛠️Updated config:
+ 🛠️Updated config:
 
 * Disabled battery-based optimizations in Dynamic FPS
 * `fabric_loader_dependencies.json` Nvidium and Indium mods was added to ignore the Sodium version
 
-#### 🔄️Updated resourcepacks
+ 🔄️Updated resourcepacks
 
 ***
 
 ### Vanilla Optimized 1.2.3-beta
 
-#### ❌Temporarily removed mod:
+ ❌Temporarily removed mod:
 
 * Nvidium (Since Nvidium itself is now does not support Sodium 0.5.9. I decided to remove it temporarily until there is support for Sodium 0.5.9)
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                    | From          | To     |
 | ----------------------- | ------------- | ------ |
@@ -569,7 +569,7 @@
 
 ### Vanilla Optimized 1.2.2-beta
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                    | From   | To     |
 | ----------------------- | ------ | ------ |
@@ -579,7 +579,7 @@
 
 🛠️Update config for mod TreadTheak
 
-#### 🔄️ Updated resourcepack:
+ 🔄️ Updated resourcepack:
 
 * Fast Better Grass
 * Translations for Sodium
@@ -593,7 +593,7 @@
 
 * **RyoamicLights** (For the reason that there is no LambDynamicLights mod on 1.20.6)
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                    | From   | To      |
 | ----------------------- | ------ | ------- |
@@ -604,15 +604,15 @@
 
 ### Vanilla Optimized 1.1.1-beta
 
-#### **⚠️Now minecraft 1.20.5+ now requires Java 21 can** [**download Adoptium (RECOMMENDED)**](https://adoptium.net/temurin/releases/?os=any\&arch=x64\&package=jre\&version=21)
+ **⚠️Now minecraft 1.20.5+ now requires Java 21 can** [**download Adoptium (RECOMMENDED)**](https://adoptium.net/temurin/releases/?os=any\&arch=x64\&package=jre\&version=21)
 
 Unexpected update for modpack as myself did not expect the EBE mod to be updated for 1.20.6
 
-#### ✅Added mod:
+ ✅Added mod:
 
 * ### Enhanced Block Entities
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods             | From    | To     |
 | ---------------- | ------- | ------ |
@@ -628,7 +628,7 @@ Unexpected update for modpack as myself did not expect the EBE mod to be updated
 
 ### Vanilla Optimized 1.0.0-beta
 
-#### **⚠️Now minecraft 1.20.5+ now requires Java 21 can** [**download Adoptium (RECOMMENDED)**](https://adoptium.net/temurin/releases/?os=any\&arch=x64\&package=jre\&version=21)
+ **⚠️Now minecraft 1.20.5+ now requires Java 21 can** [**download Adoptium (RECOMMENDED)**](https://adoptium.net/temurin/releases/?os=any\&arch=x64\&package=jre\&version=21)
 
 
 
@@ -654,11 +654,11 @@ Sorry for the little changelog, I'm doing irl.
 
 ### Vanilla Optimized 1.4.1
 
-#### ➕ Added mod:
+ ➕ Added mod:
 
 * \[ESF] Entity Sound Features (This mod will now be the default of all modpack versions \[OptiFine parity] )
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                    | From  | To    |
 | ----------------------- | ----- | ----- |
@@ -667,17 +667,17 @@ Sorry for the little changelog, I'm doing irl.
 | Entity Model Features   | 2.0.2 | 2.1.3 |
 | Dynamic FPS             | 3.6.0 | 3.6.1 |
 
-#### 🔄️Updated resourcepack:
+ 🔄️Updated resourcepack:
 
 * Translations for Sodium
 
-#### 🛠️Updated configs:
+ 🛠️Updated configs:
 
 * `Remove Reloading Screen` now reloading resource packs or etc. Instead of progress bar will be text
 * `ModernFix` fixed bug from modpack release. Mod config was reset by default at first startup. Now all mod tweaks and mod config will not be reset.
 * In config `Nvidium` Render Keep Distance by default now 64 chunks
 
-#### **🤏Other** modification**:**
+ **🤏Other** modification**:**
 
 * Fabric Loader in modpack by default now 0.16.0
 
@@ -685,7 +685,7 @@ Sorry for the little changelog, I'm doing irl.
 
 ### Vanilla Optimized 1.3.2
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                  | From         | To     |
 | --------------------- | ------------ | ------ |
@@ -695,11 +695,11 @@ Sorry for the little changelog, I'm doing irl.
 | Mod Menu              | 9.2.0-beta.2 | 9.2.0  |
 | Zoomify               | 2.13.5       | 2.14.0 |
 
-#### 🛠️Updated config:
+ 🛠️Updated config:
 
 * Disabled battery-based optimizations in Dynamic FPS
 
-#### 🔄️Updated resourcepacks
+ 🔄️Updated resourcepacks
 
 ***
 
@@ -710,7 +710,7 @@ Now from version 1.3.1-1.20.4 I'm moving to LTS for several reasons:
 1. Now updated for 1.20.4 will be released in 2 weeks to 1 month (only PATCH version and RARELY WILL MINOR version)
 2. I'm more concentrated on the updated 1.20.6 and 1.21
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods            | From  | To    |
 | --------------- | ----- | ----- |
@@ -718,11 +718,11 @@ Now from version 1.3.1-1.20.4 I'm moving to LTS for several reasons:
 | BadOptimization | 2.1.3 | 2.1.4 |
 | EntityCulling   | 1.6.5 | 1.6.6 |
 
-#### 🛠️Updated config:
+ 🛠️Updated config:
 
 * Fixed in option.txt some sound not on normal settings and binds.
 
-#### ❌ Removed mod:
+ ❌ Removed mod:
 
 * Mod Detection Preventer (now they've found a new way to find installed mods)
 
@@ -730,7 +730,7 @@ Now from version 1.3.1-1.20.4 I'm moving to LTS for several reasons:
 
 ### Vanilla Optimized 1.2.3
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                    | From   | To     |
 | ----------------------- | ------ | ------ |
@@ -744,7 +744,7 @@ Now from version 1.3.1-1.20.4 I'm moving to LTS for several reasons:
 
 ### Vanilla Optimized 1.2.2
 
-#### 🔄️ Updated mods:
+ 🔄️ Updated mods:
 
 | Mods                    | From         | To          |
 | ----------------------- | ------------ | ----------- |
@@ -755,7 +755,7 @@ Now from version 1.3.1-1.20.4 I'm moving to LTS for several reasons:
 
 🛠️Update config for mod TreadTheak
 
-#### 🔄️ Updated resourcepack:
+ 🔄️ Updated resourcepack:
 
 * Fast Better Grass
 * Translations for Sodium
