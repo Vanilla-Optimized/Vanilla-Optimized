@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d9cf8344fcc5e068d7ffc4fd27f1fc6e1b20ed8ea998c64d8769915c422c0538"
+hash = "31cd9eb0ed017d469b0885a77bfb5017f4c38fc3c1dff7f0402e8b7d713c1e97"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a770d1fc0361492712b2f11627968bdf37557928d9d62f4d26e32b78e73889ea"
+hash = "bb4508ffa8fc2646e336f7f1e8a4bc619db9afe69811b5fef52432916c9e26b7"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "d9cf8344fcc5e068d7ffc4fd27f1fc6e1b20ed8ea998c64d8769915c422c0538"
+hash = "31cd9eb0ed017d469b0885a77bfb5017f4c38fc3c1dff7f0402e8b7d713c1e97"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "a770d1fc0361492712b2f11627968bdf37557928d9d62f4d26e32b78e73889ea"
+hash = "bb4508ffa8fc2646e336f7f1e8a4bc619db9afe69811b5fef52432916c9e26b7"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -146,7 +146,7 @@ hash = "8b2463c7d41e0c0b8f7e5df674deeeaee7e4cafdebb000ab0dad04b374c75667"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9254f73bc1170ab876d10af110db3e919244fe17a43e702dedcb45a1e9ea8a59"
+hash = "742fb2c2f3f959580daf2d61927152c0fa4a10c5dd36a1b53f90dbce366e1bb0"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -175,7 +175,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
+hash = "3940277b51e7eb2aa8509e1e8309d3cd4f3e9501fa27a8332c5c1a9a6727a0e3"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "39d5c00f5aaac87b50618dab6316b11455b697e9657951052f602e8b8709e6fe"
 metafile = true
 
 [[files]]
@@ -260,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "c49ca0ce2affad49f5c191713b3ca294f302fa0bdd9bce0187a9bdea0a18e6e5"
+hash = "9e4c53fb1fda9be64935604adcdd3434a78ca27fefc71111f6dc37e4787ef2a6"
 metafile = true
 
 [[files]]
@@ -330,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e31a028b933f1043c085cf8dd55c8774df732d464827424dfa9d933c87f20ceb"
+hash = "c6280ca0212549d3807016aca47ac3ca0d0e99b36ab0d339e9e3cda3ab949c99"
 metafile = true
 
 [[files]]
@@ -370,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "35aa24f67e91fcd77e79ccd99b3ee304dbd53275a53bb269785e0f309a081f18"
+hash = "bd911229f3364eab5733c822bd3288542c9f150628e956d52e8baa193f436955"
 metafile = true
 
 [[files]]
@@ -390,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "8403c6908a94a4b81027dcd84c977a05853db16679694b84f66c8c871f66bdd6"
+hash = "15511b9ae491ddb1b25e0c03ee9841a9db1cfb758cd9351d4dc91d82c206dc95"
 metafile = true
 
 [[files]]

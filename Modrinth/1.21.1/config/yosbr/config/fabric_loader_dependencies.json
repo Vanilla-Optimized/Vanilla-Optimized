@@ -8,7 +8,7 @@
       },
       "minecraft": {
         "+recommends": {
-          "Vortexial Optimized": ">2.1.1-alpha"
+          "Vortexial Optimized": ">2.1.2-alpha"
         }
       },
       "dynamic_fps": {

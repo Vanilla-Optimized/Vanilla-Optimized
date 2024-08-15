@@ -2,6 +2,25 @@
 
 ## 1.21.1
 
+### Vortexial Optimized 2.1.2-alpha
+
+ **🔄️Updated mods:**
+
+|Mods|From|To|
+|---|---|---|
+|Indium|1.0.34|1.0.35|
+|Polytone|2.3.5|2.3.8|
+|Cloth Config API|15.0.128|15.0.130|
+|Very Many Players|0.2.0+beta.7.163|0.2.0+beta.7.164|
+
+ **🔄️Updated resourcepack:**
+- Chat Reporting Helper
+
+ **↪️Returned mod:**
+- Continuity
+
+***
+
 ### Vortexial Optimized 2.1.1-alpha
 
  ↪️ Returned mods:
