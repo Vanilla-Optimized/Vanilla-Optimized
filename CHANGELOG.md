@@ -2,6 +2,27 @@
 
 ## 1.21.1
 
+### Vortexial Optimized 2.1.3-beta
+
+ **🔄️Updated mods:**
+
+|Mods|From|To|
+|---|---|---|
+|Fabrishot|1.14.0|1.14.1|
+|Entity Texture Features|6.1.3|6.2|
+|Entity Culling|1.6.6|1.6.7|
+|ModernFix|5.19.0|5.19.2|
+|RyoamicLights|0.2.9|0.2.11|
+|Very Many Players|0.2.0+beta.7.164|0.2.0+beta.7.167|
+|Entity Model Features|2.1.3|2.2|
+
+ **🔄️Updated resourcepack:**
+ - Translations for Sodium
+
+ **🔄️Updated config files:**
+ - More Culling depth leaves now 2 (before 3)
+ - `fabric_loader_dependencies` updated version fabric to 0.16.2 and forced. Removed entityculling,fabrishot,threadtweak from dependecies.
+
 ### Vortexial Optimized 2.1.2-alpha
 
  **🔄️Updated mods:**
