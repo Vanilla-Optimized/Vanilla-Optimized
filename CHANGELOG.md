@@ -2,6 +2,29 @@
 
 ## 1.21.1
 
+### Vortexial Optimized 2.1.4-beta
+
+ **🔄️Updated mods:**
+
+|Mods|From|To|
+|---|---|---|
+|Threadtweak|0.1.4+mc1.21|0.1.5+mc1.21.1|
+|Fabric API|0.102.1|0.103.0|
+|ModernFix|5.19.2|5.19.3|
+|Entity Texture Features|6.2|6.2.2|
+|Fabric Language Kotlin|1.12.0+kotlin.2.0.10|1.12.1+kotlin.2.0.20|
+|Mod Menu |11.0.1|11.0.2|
+|Polytone |2.3.8|2.3.12|
+
+- Mod Sodium and other mods that are associated with version 0.6 skipped. I can break other mods
+
+ **🔄️Updated resourcepack:**
+ - Translations for Sodium
+
+  **🔄️Updated config files:**
+- Fabrishot now on F3 will not screen in 4k by default. Press F9 to make the screenshot in 4K
+- Updated and enforced Fabric Loader 0.16.3
+
 ### Vortexial Optimized 2.1.3-beta
 
  **🔄️Updated mods:**

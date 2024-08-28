@@ -8,13 +8,15 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.21.1|✅|
-| 1.21|✅|
-| 1.20.6|⌛|
+| 1.21|❄️|
+| 1.20.6|❄️|
 | 1.20.4|❌|
 
 ✅ - Updated ones are coming out for this version.
 
 ⌛ - Updated ones come out for this version, but not that often
+
+❄️ - Updated versions are frozen. 
 
 ❌ - There are no updates for this version (Final Version)
 

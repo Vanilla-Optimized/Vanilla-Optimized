@@ -1,6 +1,7 @@
 name = "Reese's Sodium Options"
 filename = "reeses_sodium_options-1.7.3+mc1.21.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
