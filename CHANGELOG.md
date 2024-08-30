@@ -2,6 +2,15 @@
 
 ## 1.21.1
 
+### Vortexial Optimized1 2.1.5-beta
+
+**🔄Updated mods:**
+- ImmediatelyFast,Entity Model Features,Entity Culling
+  - Mod Polytone was downgrade to version 2.3.8 to work with shaders.
+
+  **🔄Updated resourcepack:**
+  - Chat Reporting Helper
+
 ### Vortexial Optimized 2.1.4-beta
 
  **🔄️Updated mods:**

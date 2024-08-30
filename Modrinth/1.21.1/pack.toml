@@ -1,12 +1,12 @@
 name = "Vortexial Optimized"
 author = "chizusrevenge"
-version = "2.1.4-beta"
+version = "2.1.5-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "786bb16e0dfedc0331319b78214f7951da5ff9ca1ec3e152d22876990067a25d"
+hash = "49d722f5f89e9696d6e6666b32cd42840454fe4c480fbd93c6bbe58e2ba76812"
 
 [versions]
 fabric = "0.16.3"
