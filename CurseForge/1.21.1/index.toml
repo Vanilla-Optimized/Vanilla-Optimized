@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "1cb1d21f5ce255ae19f3a091243a15941a6d3fde34715241a88941d7b2581505"
+hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "34fedf460b484a3b0dbfa234cdb4b677a4358292b86e254b3f25659af65075cd"
+hash = "d118a4e1c22c4db0f74e0cc4064415bf5e7e738ba6fc811a15c768a988076920"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
+hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
 metafile = true
 
 [[files]]
@@ -409,5 +409,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "247486d430208caf5b8552c59531dec6b49bd7a880ece4925c656e5da4b7ae3d"
+hash = "f60d2dfdd33da7e697d8db2571c24c5afd92b43c4d3c4d51987d49d61de2e146"
 metafile = true

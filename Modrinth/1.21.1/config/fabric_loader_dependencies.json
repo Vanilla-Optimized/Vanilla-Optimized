@@ -3,12 +3,12 @@
     "overrides": {
       "fabricloader": {
         "+depends": {
-          "fabricloader": ">=0.16.3"
+          "fabricloader": ">=0.16.4"
         }
       },
       "minecraft": {
         "+recommends": {
-          "Vortexial Optimized": ">2.1.5-beta"
+          "Vortexial Optimized": ">2.1.6-beta"
         }
       },
       "dynamic_fps": {
@@ -24,11 +24,6 @@
         "-depends": {
             "minecraft": ""
         }
-      },
-      "debugify": {
-        "-depends": {
-            "minecraft": ""
-         }
-     }
+      }
   }
 }
