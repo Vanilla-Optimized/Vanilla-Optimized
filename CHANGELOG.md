@@ -2,7 +2,16 @@
 
 ## 1.21.1
 
-### Vortexial Optimized1 2.1.5-beta
+### Vortexial Optimized 2.1.6-beta
+
+**🔄Updated mods:**
+- Entity Model Features,Debugify,Nvidium
+  - Skipped updates Sodium and other mods related to the new 0.6.0 version.
+
+ **🔄Updated resourcepack:**
+- Translations for Sodium
+
+### Vortexial Optimized 2.1.5-beta
 
 **🔄Updated mods:**
 - ImmediatelyFast,Entity Model Features,Entity Culling
