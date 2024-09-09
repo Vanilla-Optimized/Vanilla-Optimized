@@ -1,5 +1,7 @@
 <div align="center">
 
+### The modpack will not be getting updated. Already EOL. [READ](https://gist.github.com/chizusrevenge/f7bdc4a199f0bb62de3a9ce338b1901b)
+
 <img src="https://i.imgur.com/XNrsIvn.png" alt="VO logo" width="10%" height="10%">
 
 # Vortexial Optimized
